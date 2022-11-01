@@ -25,7 +25,7 @@ Why should we create artificial, extractive bottlenecks to what gets visibility 
 
 ## How
 
-Distreviewed is a rudimentry prototype of how peer-review could look like on Holochain. Reviews can be written and discovered for any paper simply by referring to its [doi](https://en.wikipedia.org/wiki/Digital_object_identifier).
+Distreviewed is a rudimentry prototype of how peer-review could look like on Holochain. Reviews can be written and discovered for any paper simply by referring to its [doi](https://en.wikipedia.org/wiki/Digital_object_identifier) or another unique identifier.
 
 
 ## Imagine...
