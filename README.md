@@ -44,7 +44,7 @@ nix-shell
 npm install
 ```
 
-To run it:
+And to run it:
 
 ```
 npm run start
