@@ -1,0 +1,1 @@
+{"version":3,"file":"paper.js","sourceRoot":"","sources":["../../../src/distreview/reviews/paper.ts"],"names":[],"mappings":"","sourcesContent":["import { Record, ActionHash, EntryHash, AgentPubKey } from '@holochain/client';\n\nexport interface Paper {\n  authors: string[],\n  title: string,\n  doi: string,\n}\n"]}

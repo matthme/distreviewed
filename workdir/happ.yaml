@@ -1,0 +1,17 @@
+---
+manifest_version: "1"
+name: distreviewed
+description: ~
+roles:
+  - id: distreview
+    provisioning:
+      strategy: create
+      deferred: false
+    dna:
+      bundled: "../dnas/distreview/workdir/distreview.dna"
+      modifiers:
+        network_seed: ~
+        properties: ~
+        origin_time: ~
+      version: ~
+      clone_limit: 0

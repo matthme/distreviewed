@@ -1,0 +1,19 @@
+---
+manifest_version: "1"
+name: distreview
+integrity:
+  network_seed: ~
+  properties: ~
+  origin_time: 1667055358856383
+  zomes:
+    - name: reviews_integrity
+      hash: ~
+      bundled: "../../../target/wasm32-unknown-unknown/release/reviews_integrity.wasm"
+      dependencies: ~
+coordinator:
+  zomes:
+    - name: reviews
+      hash: ~
+      bundled: "../../../target/wasm32-unknown-unknown/release/reviews.wasm"
+      dependencies:
+        - name: reviews_integrity
