@@ -20,7 +20,7 @@ The value of peer-review lies in the time spent by critical eyes to review a pap
 `C`: Combined competency of those eyes<br>
 `T`: Time spent by those eyes to review the paper<br>
 
-Why should we create artificial, extractive bottlenecks to what gets visibility and what doesn't if we can just create tools that optimize for that value in itself?
+Why should we create artificial, extractive bottlenecks to what gets visibility and what doesn't if we can just create tools that optimize for this value in itself?
 
 
 ## How
