@@ -34,6 +34,7 @@ Imagine how research could look like if not constrained by extractive Journals i
 
 
 ## Wireframe
+Screenshot of one of the many pages of the wireframe that has been created at the Hackathon:
 
 ![image](https://user-images.githubusercontent.com/36768177/199517990-389a0a93-7f32-40d3-baa6-7647b9a5794a.png)
 
