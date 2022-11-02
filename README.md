@@ -33,6 +33,11 @@ Distreviewed is a rudimentry prototype of how peer-review could look like on Hol
 Imagine how research could look like if not constrained by extractive Journals in between. Imagine something similar to [Git](https://en.wikipedia.org/wiki/Git) but for research. Academic papers become evolvable entities that make visible the sources of contributions that lead to their current shape, giving us the capacity to leverage collective intelligence and discover valuable contributors not on the basis of the "prestige" of their university or research group but by their mere ability to shape and catalyze the process of discovery.
 
 
+## Wireframe
+
+![image](https://user-images.githubusercontent.com/36768177/199517990-389a0a93-7f32-40d3-baa6-7647b9a5794a.png)
+
+
 ## Developer
 
 If you want to run or modify the hApp as a developer, make sure you have the holochain development environment set up (https://developer.holochain.org/install/) and clone this respository.
